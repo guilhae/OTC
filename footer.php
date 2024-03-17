@@ -1,4 +1,4 @@
-    <footer class="site-footer pb-5" role="contentinfo" style="background-image: url('images/footer.png');background-size: cover;background-repeat: no-repeat;background-position: center bottom;">
+    <footer class="site-footer pb-5" role="contentinfo" style="background-image: url('images/footer.jpg');background-size: cover;background-repeat: no-repeat;background-position: center bottom;">
       <div class="container">
         <div class="row">
 

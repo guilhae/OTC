@@ -6,46 +6,52 @@
     <!-- HEADER -->
     <?php $header['inicio']='active'; require('header.php'); ?>
 
+    <section class="home-slider owl-carousel bg-dark" data-autoplay="true" data-autoplay-timeout="1000">
 
-    <section class="home-slider owl-carousel bg-dark">
-
-      <div class="slider-item" style="background-image: url('images/inicio1.png');">
+      <div class="slider-item" style="background-image: url('images/inicio3.jpg');">
         <div class="container">
           <div class="row slider-text align-items-center justify-content-center">
             <div class="col-lg-7 text-center col-sm-12 element-animate">
-            <!--  <h1 class="mb-4"><span>Oficina de Teatro de Condeixa</span></h1>-->
             </div>
           </div>
         </div>
       </div>
 
-     
-
-      <div class="slider-item" style="background-image: url('images/inicio2.png');">
+      <div class="slider-item" style="background-image: url('images/inicio1.jpg');">
         <div class="container">
           <div class="row slider-text align-items-center justify-content-center">
             <div class="col-lg-7 text-center col-sm-12 element-animate">
-             <!-- <h1><span>Peças para recordar</span></h1>
-              <p class="mb-5 w-75">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>-->
             </div>
           </div>
         </div>
-        
       </div>
 
-      <div class="slider-item" style="background-image: url('images/inicio3.png');">
+      <div class="slider-item" style="background-image: url('images/inicio2.jpg');">
         <div class="container">
           <div class="row slider-text align-items-center justify-content-center">
             <div class="col-lg-7 text-center col-sm-12 element-animate">
-              <!--<h1><span>Peças para recordar</span></h1>
-              <p class="mb-5 w-75">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>-->
             </div>
           </div>
         </div>
-        
       </div>
 
-     
+      <div class="slider-item" style="background-image: url('images/inicio4.jpg');">
+        <div class="container">
+          <div class="row slider-text align-items-center justify-content-center">
+            <div class="col-lg-7 text-center col-sm-12 element-animate">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="slider-item" style="background-image: url('images/inicio5.jpg');">
+        <div class="container">
+          <div class="row slider-text align-items-center justify-content-center">
+            <div class="col-lg-7 text-center col-sm-12 element-animate">
+            </div>
+          </div>
+        </div>
+      </div>
 
     </section>
     <!-- END slider -->
