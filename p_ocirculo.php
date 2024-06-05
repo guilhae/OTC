@@ -115,11 +115,6 @@
               <img src="images/ocirculo/img8.jpg" alt="Image" class="img-fluid">
             </a>
           </div>
-          <div class="col-md-4 element-animate">
-            <a class="link-thumbnail">
-              <img src="images/ocirculo/img9.jpg" alt="Image" class="img-fluid">
-            </a>
-          </div>
 
           <div class="col-md-4 element-animate">
             <a class="link-thumbnail">
@@ -140,11 +135,6 @@
           <div class="col-md-4 element-animate">
             <a class="link-thumbnail">
               <img src="images/ocirculo/img13.jpg" alt="Image" class="img-fluid">
-            </a>
-          </div>
-          <div class="col-md-4 element-animate">
-            <a class="link-thumbnail">
-              <img src="images/ocirculo/img14.jpg" alt="Image" class="img-fluid">
             </a>
           </div>
           <div class="col-md-4 element-animate">
@@ -171,11 +161,6 @@
 
           <div class="col-md-4 element-animate">
             <a class="link-thumbnail">
-              <img src="images/ocirculo/img19.jpg" alt="Image" class="img-fluid">
-            </a>
-          </div>
-          <div class="col-md-4 element-animate">
-            <a class="link-thumbnail">
               <img src="images/ocirculo/img20.jpg" alt="Image" class="img-fluid">
             </a>
           </div>
@@ -198,22 +183,6 @@
           <div class="col-md-4 element-animate">
             <a class="link-thumbnail">
               <img src="images/ocirculo/img24.jpg" alt="Image" class="img-fluid">
-            </a>
-          </div>
-
-          <div class="col-md-4 element-animate">
-            <a class="link-thumbnail">
-              <img src="images/ocirculo/img25.jpg" alt="Image" class="img-fluid">
-            </a>
-          </div>
-          <div class="col-md-4 element-animate">
-            <a class="link-thumbnail">
-              <img src="images/ocirculo/img26.jpg" alt="Image" class="img-fluid">
-            </a>
-          </div>
-          <div class="col-md-4 element-animate">
-            <a class="link-thumbnail">
-              <img src="images/ocirculo/img27.jpg" alt="Image" class="img-fluid">
             </a>
           </div>
 

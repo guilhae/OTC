@@ -15,7 +15,6 @@
           <div class="row slider-text align-items-center justify-content-center">
             <div class="col-md-8 text-center col-sm-12 element-animate pt-5">
               <h1 class="pt-5"><span>Animações</span></h1>
-              <span>Albúns de fotografias</span>
             </div>
           </div>
         </div>
@@ -72,6 +71,7 @@
               <img src="images/animacoes/50_festa_quinta.jpg" class="img-fluid">
             </a>
           </div>
+
           <div class="col-md-4 element-animate">
             <a href="https://www.facebook.com/media/set/?set=a.1000007387967805" target="_blank" class="link-thumbnail">
               <h3>«Até Marchas»</h3>
@@ -79,19 +79,11 @@
               <img src="images/animacoes/49_ate_marchas.jpg" class="img-fluid">
             </a>
           </div>
-
           <div class="col-md-4 element-animate">
             <a href="https://www.facebook.com/media/set/?set=a.967719337863277" target="_blank" class="link-thumbnail">
               <h3>«Nós, os Romanos»</h3>
               <span class="ion-android-open icon"></span>
               <img src="images/animacoes/48_romanos.jpg" class="img-fluid">
-            </a>
-          </div>
-          <div class="col-md-4 element-animate">
-            <a href="https://www.facebook.com/media/set/?set=a.919809425987602" target="_blank" class="link-thumbnail">
-              <h3>Anedotas em Alcobaça</h3>
-              <span class="ion-android-open icon"></span>
-              <img src="images/animacoes/47_anedotas.jpg" class="img-fluid">
             </a>
           </div>
           <div class="col-md-4 element-animate">
@@ -104,7 +96,7 @@
 
           <div class="col-md-4 element-animate">
             <a href="https://www.facebook.com/media/set/?set=a.821643722470840" target="_blank" class="link-thumbnail">
-              <h3>Doce impro ou impro doce?</h3>
+              <h3>«Doce impro ou impro doce?»</h3>
               <span class="ion-android-open icon"></span>
               <img src="images/animacoes/45_impro.jpg" class="img-fluid">
             </a>
@@ -126,7 +118,7 @@
 
           <div class="col-md-4 element-animate">
             <a href="https://www.facebook.com/media/set/?set=a.626675418634339" target="_blank" class="link-thumbnail">
-              <h3>"Para lá das fechaduras"</h3>
+              <h3>«Para lá das fechaduras»</h3>
               <span class="ion-android-open icon"></span>
               <img src="images/animacoes/42_poemas.jpg" class="img-fluid">
             </a>
