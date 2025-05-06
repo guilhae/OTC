@@ -43,7 +43,7 @@
             <p>De 2012 até ao momento, exibiu sketches teatrais, apresentou homenagens a patronos culturais do concelho, participou nas festas da vila e em eventos promovidos pela autarquia. Fez animações fora do Concelho (Penela, Figueiró, etc.), e interveio em feiras quinhentistas e manifestações culturais sempre representando Condeixa.</p>
             <p>Das peças levadas a palco, destacam-se, até ao momento:</p>
             <ul>
-                <li> <b>«ESTA BONECA É MINHA!»</b>, adaptado de Bertolt Brecht (2024);</li>
+                <li> <b>«ESTA BONECA É MINHA!»</b>, adaptado de Bertolt Brecht (2024-2025);</li>
                 <li> <b>«O Círculo»</b>, adaptado de Bertolt Brecht (2024);</li>
                 <li> <b>«BAND(id)OS»</b> (2018-2021), criação coletiva;</li>
                 <li> <b>«Todo-O-Mundo Joga!»</b>, de autor desconhecido (2017);</li>
@@ -53,7 +53,7 @@
             </ul>
             <p>Desde 2018 que a Oficina de Teatro realiza as Teatraquinices na Escola, com workshops de verão e Atividades Extra Curriculares para as escolas da freguesia. <br>
             Nesse mesmo ano a Oficina abriu turmas na EB1 e na EB 2 e 3 de Condeixa-a-Nova. <br>
-            Em 2021 deram-se início às Teatraquinices na Casa da OTC com duas turmas lecionadas pelo ator Zeca Carvalho, e atualmente pelos professores Susana Beja e André Pereira. <br>
+            Em 2021 deram-se início às Teatraquinices na Casa da OTC com duas turmas lecionadas pelo ator Zeca Carvalho e Susana Beja, e atualmente pelos professores Carolina Bessa e André Pereira. <br>
             Em 2022 surgiu uma terceira turma destinada a crianças dos 6 aos 9 anos, e foi criada uma turma na EB1 e no Centro Educativo para as turmas da pré-escolar e da primária, com orientação da professora Diana Lima.</p>
             <p>A Associação promove, ainda, atividades com os seus associados desde idas regulares ao teatro e formações em grupo, dentro e fora do concelho.</p>
             <p>A Presidente da Associação, Diana Lima, atribui o sucesso deste grupo «ao grande interesse, por parte da comunidade condeixense, à atividade artística que a associação promove e aos sócios/artistas que se mantêm fiéis ao projeto. Não seríamos, nem somos, nada sem o carinho daqueles que nos promovem, assistem e aplaudem.»</p>

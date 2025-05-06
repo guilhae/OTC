@@ -48,7 +48,7 @@
             <p>Marli Silva</p>
             
             <h5>Interpretação</h5> 
-            <p>André Pereira, Barbara Cera, Céu Oliveira, Céu Santos, Fátima Cotas, Margarida Pinho, Marli Silva, Rafael Graça, Rafaela Serrano, Tomás Ribeiro.</p>
+            <p>André Pereira, Bárbara Cera, Céu Oliveira, Céu Santos, Fátima Cotas, Margarida Pinho, Marli Silva, Rafael Graça, Rafaela Serrano, Tomás Ribeiro.</p>
             
             <h5>Sonoplastia</h5> 
             <p>Rafael Graça e Susana Beja</p>

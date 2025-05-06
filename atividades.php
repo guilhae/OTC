@@ -28,13 +28,18 @@
       <div class="container">
         <div class="row justify-content-center mb-5 element-animate">
           <div class="col-md-8 text-center">
-            <h2 class=" heading mb-4">Fotografias</h2>
+            <h2 class=" heading mb-4">Momentos e atividades da Associação OTC</h2>
           </div>
         </div>
       </div>
       <div class="container-fluid">
         <div class="row no-gutters">
 
+        <div class="col-md-4 element-animate">
+            <a class="link-thumbnail">
+              <img src="images/atividades/atividade12.jpg" alt="Image" class="img-fluid">
+            </a>
+          </div>
           <div class="col-md-4 element-animate">
             <a class="link-thumbnail">
               <img src="images/atividades/333657893_582063487178717_4472970528992748262_n.jpg" alt="Image" class="img-fluid">
@@ -42,19 +47,10 @@
           </div>
           <div class="col-md-4 element-animate">
             <a class="link-thumbnail">
-              <img src="images/atividades/SAM_1863.JPG" alt="Image" class="img-fluid">
-            </a>
-          </div>
-          <!-- <div class="col-md-4 element-animate">
-            <a class="link-thumbnail">
-              <img src="images/atividades/IMG_20170501_141903.jpg" alt="Image" class="img-fluid">
-            </a>
-          </div> -->
-          <div class="col-md-4 element-animate">
-            <a class="link-thumbnail">
               <img src="images/atividades/IMG_20190203_000321.jpg" alt="Image" class="img-fluid">
             </a>
           </div>
+
           <div class="col-md-4 element-animate">
             <a class="link-thumbnail">
               <img src="images/atividades/12119329_1619211641664016_1140248667_o.jpg" alt="Image" class="img-fluid">
@@ -70,9 +66,10 @@
               <img src="images/atividades/IMG_4989.jpg" alt="Image" class="img-fluid">
             </a>
           </div>
+          
           <div class="col-md-4 element-animate">
             <a class="link-thumbnail">
-              <img src="images/atividades/IMG_20200104_211109.jpg" alt="Image" class="img-fluid">
+              <img src="images/atividades/atividade6.jpg" alt="Image" class="img-fluid">
             </a>
           </div>
           <div class="col-md-4 element-animate">
@@ -82,9 +79,10 @@
           </div>
           <div class="col-md-4 element-animate">
             <a class="link-thumbnail">
-              <img src="images/atividades/IMG_2124.jpg" alt="Image" class="img-fluid">
+              <img src="images/atividades/SAM_1863.JPG" alt="Image" class="img-fluid">
             </a>
           </div>
+          
           <div class="col-md-4 element-animate">
             <a class="link-thumbnail">
               <img src="images/atividades/IMG_20190331_231148.jpg" alt="Image" class="img-fluid">
@@ -97,7 +95,7 @@
           </div>
           <div class="col-md-4 element-animate">
             <a class="link-thumbnail">
-              <img src="images/atividades/natal_2022.jpg" alt="Image" class="img-fluid">
+              <img src="images/atividades/atividade1.jpg" alt="Image" class="img-fluid">
             </a>
           </div>
           

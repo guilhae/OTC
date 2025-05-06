@@ -15,6 +15,7 @@
           <div class="row slider-text align-items-center justify-content-center">
             <div class="col-md-8 text-center col-sm-12 element-animate pt-5">
               <h1 class="pt-5"><span>ESTA BONECA É MINHA!</span></h1>
+              <!-- <div class="btn-play-wrap mx-auto"><p class="mb-4"><a href="https://vimeo.com/59256790" data-fancybox data-ratio="2" class="btn-play"><span class="ion ion-ios-play"></span></a></p></div> -->
             </div>
           </div>
         </div>
@@ -48,7 +49,7 @@
             <p>Diana Lima</p>
             
             <h5>Interpretação</h5> 
-            <p>André Pereira, Cristina Pinto, Filomena Calhindro, Guilherme Albuquerque, João Maria Oliveira, Laurentina Soares, Paula Pereira, Rafael Graça, Susana Beja.</p>
+            <p>André Pereira, Céu Santos, Cristina Pinto, Filomena Calhindro, Guilherme Albuquerque, João Maria Oliveira, Laurentina Soares, Paula Pereira, Rafael Graça, Susana Beja.</p>
             
             <h5>Sonoplastia</h5>
             <p>Marina Carecho e Rafael Graça</p>
@@ -62,6 +63,38 @@
           </div>
         </div>
       </div>
+
+      <!-- VideoJS -->
+      <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
+      <!-- Fantasy -->
+      <link href="/css/vjs-theme-otc.css" rel="stylesheet">
+
+      <div class="container">
+        <div class="row justify-content-center mb-5 element-animate">
+          <div class="col-md-8 text-center">
+
+            <video
+              id="my-video"
+              class="video-js vjs-theme-fantasy vjs-16-9"
+              controls
+              preload="auto"
+              poster="/images/video_boneca.jpg"
+              responsive="true"
+              data-setup="{}"
+            >
+              <source src="https://oficinadeteatrocondeixa.pt/video/Boneca.mp4" type="video/mp4" />
+              <p class="vjs-no-js">
+                Para ver este vídeo por favor ative o JavaScript, e considere atualizar o seu browser para que 
+                <a href="https://videojs.com/html5-video-support/" target="_blank">suporte vídeos HTML5</a>
+              </p>
+            </video>
+
+          </div>
+        </div>
+      </div>
+      
+      <!-- VideoJS -->
+      <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
     
       <div class="container">
         <div class="row justify-content-center mb-5 element-animate">
@@ -150,6 +183,22 @@
           <div class="col-md-4 element-animate">
             <a class="link-thumbnail">
               <img src="images/boneca/img14.jpg" alt="Image" class="img-fluid">
+            </a>
+          </div>
+
+          <div class="col-md-4 element-animate">
+            <a class="link-thumbnail">
+              <img src="images/boneca/img17.jpg" alt="Image" class="img-fluid">
+            </a>
+          </div>
+          <div class="col-md-4 element-animate">
+            <a class="link-thumbnail">
+              <img src="images/boneca/img18.jpg" alt="Image" class="img-fluid">
+            </a>
+          </div>
+          <div class="col-md-4 element-animate">
+            <a class="link-thumbnail">
+              <img src="images/boneca/img19.jpg" alt="Image" class="img-fluid">
             </a>
           </div>
 

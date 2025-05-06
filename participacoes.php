@@ -42,14 +42,14 @@
               <img src="images/participacoes/x.jpg" class="img-fluid">
             </a>
           </div>
+    -->
           <div class="col-md-4 element-animate">
-            <a href="https://www.facebook.com/media/set/" target="_blank" class="link-thumbnail">
-              <h3>Título</h3>
+            <a href="https://www.facebook.com/media/set/?set=a.1286789682622906" target="_blank" class="link-thumbnail">
+              <h3>«Combate do Casal Novo» em Condeixa</h3>
               <span class="ion-android-open icon"></span>
-              <img src="images/participacoes/x.jpg" class="img-fluid">
+              <img src="images/participacoes/14_combate.jpg" class="img-fluid">
             </a>
           </div>
--->
           <div class="col-md-4 element-animate">
             <a href="https://www.facebook.com/media/set/?set=a.1202545057714036" target="_blank" class="link-thumbnail">
               <h3>«Luzes da Liberdade» 1ª e 2ª sessão</h3>

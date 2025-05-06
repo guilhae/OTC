@@ -18,7 +18,6 @@
               <li class="d-block">
                 <span class="d-block">Endereço:</span>
                 <span >Avenida Visconde de Alverca, 3150-120 Condeixa-a-Nova</span></li>
-              <li class="d-block"><span class="d-block">Telefone:</span><span >+351 912 593 196</span></li>
               <li class="d-block"><span class="d-block">Email:</span><span ><a href="mailto: oficinadeteatro.condeixa@gmail.com">oficinadeteatro.condeixa@gmail.com</a></span></li>
             </ul>
           </div>
